@@ -10,17 +10,6 @@ body {
 
 }
 
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  background: url('assets/ezgif.com-video-to-gif.gif');
-  background-size:cover;
-
-
-  min-width: 100%; 
-  min-height: 100%;
-}
 
 .content {
   position: fixed;
@@ -34,9 +23,11 @@ body {
   display: flex;
   justify-content: space-between;
 
+
 }
 .content h1{
   padding-left: 30px;
+
 }
 
 .branding{
@@ -56,21 +47,19 @@ a {
   padding-left: 5px;
 }
 
-#myBtn {
-  width: 200px;
-  font-size: 18px;
-  padding: 10px;
-  border: none;
-  background: #000;
-  color: #fff;
-  cursor: pointer;
-}
+#myVideo {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  background: url('assets/ezgif.com-video-to-gif.gif');
+  background-size:cover;
 
-#myBtn:hover {
-  background: #ddd;
-  color: black;
-}
 
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: -1;
+
+}
 
 
 @media only screen 
@@ -80,12 +69,12 @@ a {
     and (-webkit-min-device-pixel-ratio : 2)
     {
       .content h1{
-        font-size: 3em;
+        font-size: 5em;
       }
 
       .branding
       {
-        font-size: 3em;
+        font-size: 3.5em;
       }
 
 
