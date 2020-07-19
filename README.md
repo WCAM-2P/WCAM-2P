@@ -1,3 +1,3 @@
-# Sarva Darsana Samgraha
+# Navigation
 
 ![Indian Railway Map](https://www.trainspnrstatus.com/images/indianrailwaymap.jpg)
