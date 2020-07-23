@@ -78,7 +78,7 @@ a {
     {
       .content h1{
         font-size: 5em;
-        padding-top: 11px;
+        padding-top: 0px;
       }
 
       .branding
@@ -100,7 +100,7 @@ a {
     {
       .content h1{
         font-size: 5em;
-        padding: -10px;
+        padding-top: 0px;
 
       }
 
