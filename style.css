@@ -81,7 +81,29 @@ a {
       .branding
       {
         font-size: 3.5em;
-        padding: 32px;
+        padding-top: 50px;
+
+      }
+
+
+
+    }
+
+    @media only screen 
+    and (min-device-height : 375px) 
+    and (max-device-height : 667px) 
+    and (orientation : landscape) 
+    and (-webkit-min-device-pixel-ratio : 2)
+    {
+      .content h1{
+        font-size: 5em;
+      }
+
+      .branding
+      {
+        font-size: 3.5em;
+        padding-top: 50px;
+        
 
       }
 
