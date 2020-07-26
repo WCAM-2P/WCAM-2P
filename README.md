@@ -1,3 +1,3 @@
 # Pather Panchali
 
-![Indian Railway Map](https://www.trainspnrstatus.com/images/indianrailwaymap.jpg)
+![scene](https://github.com/ZONE-09/pather-panchali/blob/master/assets/scene.jpg?raw=true)
