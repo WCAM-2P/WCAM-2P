@@ -10,4 +10,4 @@ At what horizon does a dream transform reality? Because at the midnight hour, we
 
 The tryst precedes the body politic. The dream radiates amidst the void. India is a revery that spans languages, religions and polities. An anthology of the unvanquished. A negation that masquerades as identity. The not self. The Other. Ancient and without antecedent. A gospel not yet unfurled. A billion score people waking each morning to a shared reality. To realize Truth. That precedes the telegraph, the railroad and the automobile. That we are more than the sum of our histories. That our raison d'être is beyond measure. And outside cause. 
 
-That we endure. Answer love. And breath life to India. 
+We persevere. Answer love. And breath life to India. 
