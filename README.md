@@ -9,4 +9,4 @@ At what horizon does a dream transform reality? Because at the midnight hour, we
 
 The tryst precedes the body politic. The dream illuminates amidst the night. India is a revery that spans languages, religions and polities. An anthology of the unvanquished. A negation that masquerades as identity. The not self. The Other. Ancient and without antecedent. A gospel not yet unfurled. A billion score people waking each morning to a shared reality. To realize the Truth in the intervening. That we are more than the discreet. We dream of our days. Our dreams render our nights. We wander the desert. In search of lost memory. 
 
-We stumble. We fall. We persevere. Answer love. And breath life to India. 
+And we stumble. We fall. We persevere. Answer love. And breath life to India. 
