@@ -7,4 +7,5 @@
 
 At what horizon does a dream transform reality? Because at the midnight hour, we wake to the language of the unfulfilled. A dense fog of symbols and meanings that permeate the immediate. A universe of forms that veil the vicissitudes of time and space. We imagine what the mirage reflects. Our dreams echo the rudiments of self. A faint memory that recalls harmony. A specter that transforms the formless and the void. What is real amidst the chaos? What is illusion? A child is born neither awake nor asleep. And grasps for breadth. Why? To fulfill a dream. The infant cries. And consciousness.
 
-The continuum flickers. We dream of our days. Our dreams render our nights. We wander the desert. In search of lost memory. We dance under the stars. Answer love. Make believe. And the dream comes to life. 
+The continuum flickers. We dream of our days. Our dreams render our nights. We wander the desert in search of lost memory. We dance under the stars. Answer love. And make believe. And breathe life to a dream. 
+
