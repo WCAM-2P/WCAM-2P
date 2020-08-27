@@ -9,4 +9,4 @@ At what horizon does a dream transform reality? Because at the midnight hour, we
 
 The continuum flickers. The imagination conjures the phenomenal from the resonant. An attractor renders a significant amidst the crashing waves. We discern. At first the edges and then the constellation of the visible and the consonant. A thought unfurls and we begin wander the desert in search of lost memory. An imago of preceding.  
 
-We dream of day. Our dreams render our nights. We struggle against the coarse and the finite. We dance under the stars. And make believe. And breath life to a dream.
+We dream of days. Our dreams render our nights. We struggle against the coarse and the finite. We dance under the stars. And make believe. And breath life to a dream.
