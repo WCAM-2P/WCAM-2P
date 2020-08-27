@@ -9,5 +9,5 @@ At what horizon does a dream transform reality? Because at the midnight hour, we
 
 The continuum flickers. The imagination conjures the phenomenal from the resonant. An attractor renders a significant amidst the crashing of the waves. We discern. At first the edges and then the constellation of the visible and the consonant. A thought unfurls and we begin wander the desert in search of lost memory. An imago of preceding. A self unrealized. 
 
-We dance under the stars. Our trysts colour our nights. We pursue desert’s mirage. We chase apparitions. We encounter wonder and misery. We struggle against the coarse and the grain. We stumble and fall across the dunes. We emerge from the sands. We persevere. We begin forget ourselves. And remember only the dream.
+We dance under the stars. Our trysts colour our nights. We pursue apparitions. We encounter wonder and misery. We struggle against the coarse and the grain. We stumble and fall across the dunes. We emerge from the sands. We persevere. We begin forget ourselves. And remember only the dream.
 
