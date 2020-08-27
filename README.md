@@ -9,4 +9,4 @@ At what horizon does a dream transform reality? Because at the midnight hour, we
 
 The continuum flickers. The imagination conjures the phenomenal from the resonant. An attractor renders a significant amidst the crashing of the waves. We discern. At first the edges and then the constellation of the visible and the consonant. A thought unfurls and we begin wander the desert in search of lost memory. An imago of preceding. A self unrealized. 
 
-We pursue revelry. We encounter wonder and misery. Our trysts colour our nights. We dance under the stars. We struggle against the coarse and the grain. We stumble. And fall. We persevere. And make believe. And breath life to a dream.
+We pursue revelry. We encounter wonder and misery. Our trysts colour our nights. We dance under the stars. We struggle against the coarse and the grain. We stumble and fall across the sand dunes. We persevere. And make believe. And breath life to a dream.
