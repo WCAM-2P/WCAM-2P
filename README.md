@@ -9,4 +9,4 @@ At what horizon does a dream transform reality? Because at the midnight hour, we
 
 The continuum flickers. The imagination conjures the phenomenal from the resonant. We discern at first the edges and then the constellation of the significant. A thought unfurls and we begin wander the desert in search of lost memory. An imago of preceding. A self unrealized. We chase figments across the sands. Our trysts colour our nights. We stumble past wonder and cross mystery. We emerge from strand amid stalks of wheat. We hear a rustling off in the distance, and draw to the siren of the train. We begin forget ourselves. And recall flashes of the dream. 
 
-The train. A line. A gradient. An expression of the abstract. A species of the genus. 
+A train. A line. A gradient. An expression of the abstract. A genus of the species. 
